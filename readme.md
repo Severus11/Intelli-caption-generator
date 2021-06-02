@@ -24,3 +24,6 @@ $ pip3 install -r requirements.txt
 - Enter the link to your image in the last cell of app.ipynb
 - To use on an offline image, add the path of the image in the second last cell of app.ipynb
 - Finally, run all the cells in succession
+
+### Working Example:
+![sample_output](https://user-images.githubusercontent.com/36445722/120537815-5ed69800-c403-11eb-8c80-73b8a0bd6f21.png)
