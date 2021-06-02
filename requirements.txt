@@ -2,6 +2,6 @@ Keras==2.4.3
 numpy==1.19.5
 matplotlib==3.2.2
 tqdm==4.48.0
-tensorflow_gpu==2.2.0
+tensorflow==2.2.0
 Pillow==8.2.0
 tensorflow==2.5.0
