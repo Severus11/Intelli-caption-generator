@@ -26,4 +26,5 @@ $ pip3 install -r requirements.txt
 - Finally, run all the cells in succession
 
 ### Working Example:
-![sample_output](https://user-images.githubusercontent.com/36445722/120537815-5ed69800-c403-11eb-8c80-73b8a0bd6f21.png)
+![Capture](https://user-images.githubusercontent.com/36445722/120539255-0f916700-c405-11eb-9e3e-21f452653dc9.JPG)
+
