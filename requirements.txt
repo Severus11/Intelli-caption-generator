@@ -1,1 +1,9 @@
-
+tensorflow 
+matplotlib  
+collections
+random
+numpy
+os
+time
+json
+PILLOW
